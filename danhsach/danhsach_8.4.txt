@@ -1,0 +1,6 @@
+Họ và tên	Tên	Xếp loại	OT1	OT2	OT3	OT4	OT5	Cột yếu nhất	Mục tiêu 	Số OT đã hoàn thành	Mức OT1	Mức OT2	Mức OT3	Mức OT4	Mức OT5
+Huỳnh Thị Hồng	Anh	B	39	38	40	39	24	OT5	28	0	A	A	A	A	B
+Ngô Tuấn	Anh	B	30	35	33	28	26	OT5	28	0	B	S	B	C	A
+Nguyễn Thị Trâm	Anh	A	40	40	40	40	28	Hoàn thành	---	0	A	A	A	A	A
+Trần Triệu	Long	A	40	40	40	40	28	Hoàn thành	---	0	A	A	A	A	A
+Nguyễn Gia	Bảo	B	25	15		28	27	OT3	5	0	C	D	D	C	A

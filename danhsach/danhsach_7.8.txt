@@ -1,11 +1,42 @@
-Nguyễn Thanh	Ngân	PC03
-Phan Hà	Thi	PC04
-Bùi Hoàng	Phúc	PC05
-Phan Minh	Quân	PC06
-Nguyễn Nhã	Uyên	PC07
-Nguyễn Diệp	Chi	PC08
-Lê Liên	Anh	PC09
-Hoàng Minh	Hằng	PC10
-Nguyễn Võ Phương	An	PC11
-Vũ Anh	Khoa	PC12
-Trần Hà Thanh	Dung	PC13
+Họ và tên	Tên	Xếp loại	OT1	OT2	OT3	OT4	OT5	Cột yếu nhất	Mục tiêu 	Số OT đã hoàn thành	Mức OT1	Mức OT2	Mức OT3	Mức OT4	Mức OT5
+Nguyễn Võ Phương	An	B	37	44	26	44	33	OT3	32	0	B	A	B	A	A
+Phạm Thị Ngọc	Ánh	B	26	32		39	30	OT3	6	0	C	C	D	C	A
+Mai Gia	Bảo	B	27	21	24	24	22	OT2	27	0	C	D	B	B	C
+Phạm Huy	Bình	B	31	13	15	14	27	OT2	19	0	C	D	D	D	B
+Nguyễn Diệp	Chi	B	42	44	36	44	33	OT3	42	0	A	A	C	A	A
+Trần Hà Thanh	Dung	B	28	36	31	43	33	OT1	34	0	C	B	B	A	A
+Nguyễn Hải	Đăng	B	32	25	20	18	29	OT4	24	0	C	C	D	D	B
+Hoàng Minh	Đức	B	29	9	19	22	28	OT2	15	0	C	D	D	D	B
+Lê Viết	Giang	B	28	17	16	23	23	OT3	22	0	C	D	D	B	C
+Phạm Ngọc	Hải	B	25	21	27	26	22	OT2	27	0	C	D	B	B	C
+Hoàng Minh	Hằng	B	40	39	31	41	33	OT3	37	0	B	B	B	A	A
+Nguyễn Đàm Trung	Hiếu	B	27	19	9	29	23	OT3	15	0	C	D	D	B	C
+Phạm Hà	Khánh	B	38	39	38	41	33	OT1	44	0	B	B	C	A	A
+Vũ Anh	Khoa	B	40	37	25	44	33	OT3	31	0	B	B	B	A	A
+Vũ Nguyễn Đức	Khôi	A	45	45	45	45	33	Hoàn thành	---	0	A	A	A	A	A
+Vũ Đức Quang	Minh	B	40	28	21	27	27	OT3	27	0	B	C	D	B	B
+Lê Đan	My	B	27	29	23	25	30	OT3	29	0	C	C	B	B	A
+Trần Lê Trà	My	B	34	36	19	31	30	OT3	25	0	C	B	D	B	A
+Nguyễn Hải	Nam	B	39	32	21	26	33	OT3	27	0	B	C	D	B	A
+Nguyễn Thành	Nam	B	37	33	23	35	30	OT3	29	0	B	C	B	C	A
+Nguyễn Thanh	Ngân	B	45	45	39	44	33	OT3	45	0	A	A	C	A	A
+Trần Hoàng Bảo	Ngọc	B	31	26	29	34	29	OT2	32	0	C	C	B	B	B
+Nguyễn Phan Yến	Nhi	B	41	30	21	29	27	OT3	27	0	A	C	D	B	B
+Nguyễn Quỳnh	Như	A	44	42	44	45	33	OT2	45	0	A	A	A	A	A
+Bùi Hoàng	Phúc	B	44	38	30	41	29	OT5	33	0	A	B	B	A	B
+Phan Minh	Quân	B	44	35	30	40	30	OT3	36	0	A	B	B	C	A
+Đinh Thị Như	Quỳnh	B	40	44	36	44	33	OT3	42	0	B	A	C	A	A
+Vũ Thị Thanh	Tâm	B	27	40	28	37	30	OT1	33	0	C	B	B	C	A
+Đinh Nguyễn Xuân	Thành	B	15	17		13	25	OT3	6	0	D	D	D	D	B
+Phan Hà	Thi	B	43	35	35	44	33	OT2	41	0	A	B	C	A	A
+Nguyễn Lê Phúc	Thịnh	B	30	41	22	39	32	OT3	28	0	C	A	D	C	A
+Ngô Anh	Thư	B	30	38	28	43	33	OT3	34	0	C	B	B	A	A
+Nguyễn Văn	Thức	B	31	21	13	26	20	OT3	19	0	C	D	D	B	C
+Cao Hữu	Toàn	B	27	18	19	27	25	OT2	24	0	C	D	D	B	B
+Lê Hoàng Diễm	Trinh	B	22	27	20	25	30	OT3	26	0	D	C	D	B	A
+Lê Xuân	Trường	B	26	33	20	31	24	OT3	26	0	C	C	D	B	C
+Nguyễn Nhã	Uyên	B	40	38	31	41	33	OT3	37	0	B	B	B	A	A
+Nguyễn Thiên	Vũ	B	33	20	24	24	25	OT2	26	0	C	D	B	B	B
+Nguyễn Thị Ngọc	Ánh	B	34	26	26	33	26	OT2	32	0	C	C	B	B	B
+Lê Thiên	Bảo	B					13	OT1	6	0	D	D	D	D	D
+Lê Liên	Anh	B	39	43	26	42	33	OT3	32	0	B	A	B	A	A

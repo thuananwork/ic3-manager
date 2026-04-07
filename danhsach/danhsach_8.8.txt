@@ -1,0 +1,47 @@
+Họ và tên	Tên	Xếp loại	OT1	OT2	OT3	OT4	OT5	Vị trí chỗ ngồi	Cột yếu nhất	Mục tiêu 	Số OT đã hoàn thành	Mức OT1	Mức OT2	Mức OT3	Mức OT4	Mức OT5	 TỔNG
+Phan Nguyễn Khánh	Linh	C	32	29	34	32	16	PC25	OT5	21	0	B	C	B	B	C	143
+Nguyễn Minh	Khải	C	35	25	36	36	17	PC26	OT5	22	0	B	C	A	A	C	149
+Dương Khánh	An	D	24	27	22	20	15	PC07	OT5	20	0	C	C	C	C	C	108
+Bùi Nguyễn Tú	Anh	D	34	26	18	18	12	PC19	OT5	17	0	B	C	D	D	D	108
+Lê Thị Hải	Anh	A	34	35	40	40	25	PC01	OT5	28	0	B	B	A	A	B	174
+Lê Thị Lan	Anh	C	34	30	32	33	20	PC27	OT5	25	0	B	B	B	B	C	149
+Trần Kỳ Minh	Châu	D	32	14	19	17	16	PC30	OT2	19	0	B	D	D	D	C	98
+Nguyễn Minh	Đạt	D	30	22	14	23	9	PC45	OT5	14	0	B	C	D	C	D	98
+Nguyễn Văn	Đạt	C	30	29	33	31	18	PC48	OT5	23	0	B	C	B	B	C	141
+Phạm Thành	Đạt	C	30	28	38	36	18	PC49	OT5	23	0	B	C	A	A	C	150
+Nguyễn Đình Minh	Hải	D	30	20	21	32		PC09	OT5	5	0	B	C	C	B	D	103
+Nguyễn Hà	Linh	D	30	27	37	16	18	PC16	OT4	21	0	B	C	A	D	C	128
+Phan Nguyễn Hữu	Luân	D	11	16	8	15	9	PC33	OT3	13	0	D	D	D	D	D	59
+Nguyễn Trí	Mạnh	C	30	35	34	33	17	PC50	OT5	22	0	B	B	B	B	C	149
+Lê Thế	Nam	A	40	40	40	40	28	PC02	Hoàn thành	---	0	A	A	A	A	A	188
+Nguyễn Đặng Thảo	Ngân	D	27	20	14	30	17	PC41	OT3	19	0	C	C	D	B	C	108
+Trì Hạo	Nhiên	C	34	28	33	33	16	PC05	OT5	21	0	B	C	B	B	C	144
+Trần Thị Quỳnh	Như	D	29	26	26	24	11	PC08	OT5	16	0	C	C	C	C	D	116
+Đặng Thế	Phong	B	36	36	34	40	22	PC03	OT5	27	0	A	A	B	A	B	168
+Vũ Duy	Quân	D	28	19	19	20		PC17	OT5	5	0	C	D	D	C	D	86
+Nguyễn Thành	Tâm	D	7	26	26	22	15	PC32	OT1	12	0	D	C	C	C	C	96
+Đặng Võ Phước	Thành	D	19	21	20	16	11	PC42	OT5	16	0	D	C	C	D	D	87
+Hoàng Lê Phương	Thảo	B	34	38	36	31	20	PC04	OT5	25	0	B	A	A	B	C	159
+Mai Thị Thanh	Thảo	D	19	33	30	28	18	PC18	OT5	23	0	D	B	B	C	C	128
+Lê Thị Thu	Thủy	C	33	25	27	33	19	PC21	OT5	24	0	B	C	C	B	C	137
+Nguyễn Ngọc	Trâm	D	33	27	20	21	17	PC31	OT5	22	0	B	C	C	C	C	118
+Làu Quyền	Vương	B	32	35	37	32	27	PC22	OT5	28	0	B	B	A	B	A	163
+Trịnh Thị Như	Ý	C	39	31	24	27	17	PC28	OT5	22	0	A	B	C	C	C	138
+Lê Ngọc Hải	Yến	D	27	18	34	32	16	PC43	OT5	21	0	C	D	B	B	C	127
+Lương Phan Trúc	Ly	C	33	32	20	34	20	PC47	OT3	25	0	B	B	C	B	C	139
+Lê Sĩ	Vững	C	34	32	29	28	15	PC06	OT5	20	0	B	B	C	C	C	138
+Nguyễn Đăng	Khôi	B	35	32	39	37	20	PC23	OT5	25	0	B	B	A	A	C	163
+Nguyễn Đức	Thiện	C	30	37	30	37	10	PC20	OT5	15	0	B	A	B	A	D	144
+Nguyễn Nam	Hải	D	33	31	32	35		PC44	OT5	5	0	B	B	B	B	D	131
+Đinh Tuấn	Anh	C	26	24	33	33	17	PC29	OT5	22	0	C	C	B	B	C	133
+Nguyễn Kim	Hiền	B	31	34	30	38	20	PC24	OT5	25	0	B	B	B	A	C	153
+Đặng Nguyễn Bảo	Khanh	D	13	23	28	15		PC10	OT5	5	0	D	C	C	D	D	79
+Nguyễn Lương Khánh	Duy	D	11	18	28	25	7	PC11	OT5	12	0	D	D	C	C	D	89
+Đỗ Tấn	Lộc	D	16	21	21	27	13	PC12	OT5	18	0	D	C	C	C	D	98
+Đoàn Việt	Hưng	D	19	30	31	28		PC13	OT5	5	0	D	B	B	C	D	108
+Lưu Ngọc Như	Phúc	D	23	20	24	19		PC14	OT5	5	0	C	C	C	D	D	86
+Nguyễn Ngọc Tường	Lam	C	30	37	24	28	15	PC46	OT5	20	0	B	A	C	C	C	134
+Nguyễn Hoàng	Long	D	22	20	17	20	11	PC15	OT5	16	0	C	C	D	C	D	90
+Phạm Nguyễn Bảo	Thi	D	21	20	28	10	16	PC34	OT4	15	0	C	C	C	D	C	95
+Dương Quỳnh	Chi	D	24	22	23	27	21	PC35	OT5	26	0	C	C	C	C	C	117
+Bùi Minh	Nhật	D	25	10	15	12		PC36	OT5	5	0	C	D	D	D	D	62

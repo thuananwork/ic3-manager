@@ -1,19 +1,28 @@
 @echo off
-title THU THAP IP MAY TINH
-color 0b
-echo Dang kiem tra so may...
+title CONG CU LAY IP TU DONG - THAY AN
+color 0a
+cls
+
+echo ==========================================
+echo        DANG KET NOI VOI MAY THAY...
+echo ==========================================
 
 :: Lay ten may tinh hien tai
 set pcname=%COMPUTERNAME%
 
-echo May cua ban la: %pcname%
-echo Dang gui thong tin ve may thay...
+:: Tu dong tim Desktop
+set DESKTOP_PATH=%USERPROFILE%\Desktop
+if not exist "%DESKTOP_PATH%" set DESKTOP_PATH=%USERPROFILE%\OneDrive\Desktop
 
-:: Gui IP va Ten may ve web server cua thay
-curl "http://192.168.50.135/ketqua/get_ip.php?pc=%pcname%"
+echo May hien tai: %pcname%
+echo User: %USERNAME%
+
+:: Gui IP ve may thay (IP: 10.217.7.119)
+curl -s "http://10.217.7.119/ic3-manager/get_ip.php?pc=%pcname%"
 
 echo.
 echo ------------------------------------------
-echo XONG! Thay da nhan duoc IP cua may ban.
+echo THANH CONG! IP cua ban da duoc gui ve.
 echo ------------------------------------------
-pause
+timeout /t 3
+exit

@@ -1,48 +1,49 @@
-Đỗ Công Khôi		PC03
-Nguyễn Nhật Minh	PC02
-Nguyễn Hoàng Khang	PC05
-Nguyễn Hữu  Nam		PC06
-Phạm Chí Nam		PC07
-Nguyễn Thị Ánh Ngọc	PC08
-Vũ Hoàng Ngọc Hà	PC09
-Nguyễn Thành Hưng	PC10
-Lương Hữu Hưng		PC11
-Phạm Bùi Gia Huy	PC12
-Vũ Ngọc Mai		PC13
-Tôn Nữ Thúy Bảo Trân	PC14
-Đỗ Ngọc Trí		PC15
-Hà Văn Gia Minh		PC16
-Trần Thị Anh Thư	PC17
-Quách Hồ Bảo Ngọc	PC18
-Vũ Minh Phát		PC19
-Trần Ngọc Phát		PC20
-Ngô Thọ Hoàng		PC21
-Đỗ Tuấn Kiệt		PC22
-Nguyễn Thị Yến Nhi	PC23
-Nguyễn Ngọc Thảo Nhi	PC24
-Hà Xuân Hùng Tráng	PC25
-Nguyễn Trương Minh Bảo	PC26
-Trần Bình Minh		PC27
-Nguyễn Gia Bảo		PC28
-Nguyễn Bảo Nam		PC29
-Phạm Thành An		PC30
-Nguyễn Minh Trí		PC31
-Phan Thị Kim Oanh	PC32
-Đỗ Hoàng Tuấn Anh	PC33
-Trần Hà Kiều Anh	PC34
-Đặng Vũ Yến Phi		PC35
-Lê Ngọc Kim Huệ		PC37
-Đinh Phú Hoàng Anh	PC39
-Phạm Bá An Tường	PC38
-Lê Minh Đức		PC36
-Nguyễn Kim Oanh		PC40
-Đặng Nguyễn Hà Vy	PC41
-Nguyễn Hà An		PC42
-Nguyễn Hữu Thiên	PC43
-Nguyễn Ngọc Hữu Phước	PC44
-Quản Lê Mạnh Quân	PC45
-Trần Chí Bảo		PC46
-Lê Minh Quân		PC47
-Nguyễn Bảo Long		PC48
-Trần Bùi Đặng Phú	PC49
-Phan Gia Bảo		PC50
+Họ và tên	Tên	Xếp loại	OT1	OT2	OT3	OT4	OT5	Cột yếu nhất	Mục tiêu 	Số OT đã hoàn thành	Mức OT1	Mức OT2	Mức OT3	Mức OT4	Mức OT5
+Đinh Phú Hoàng	Anh	B	38	25	28	35	32	OT2	31	0	B	C	C	B	A
+Đỗ Hoàng Tuấn	Anh	B	33	24	27	34	30	OT2	30	0	C	C	C	C	A
+Trần Hà Kiều	Anh	B	33	26	19	28	22	OT3	25	0	C	C	D	C	C
+Nguyễn Gia	Bảo	B	30	28	11	37	31	OT3	17	0	C	C	D	B	A
+Phan Gia	Bảo	B	16	13	13	18	10	OT5	16	0	D	D	D	D	D
+Trần Chí	Bảo	B	34	30	23	27	23	OT3	29	0	C	C	C	C	C
+Lê Minh	Đức	B	15	22	13	23	24	OT3	19	0	D	D	D	C	C
+Vũ Hoàng Ngọc	Hà	A	44	43	42	45	33	OT3	45	0	A	A	A	A	A
+Lương Hữu	Hưng	A	45	42	44	45	33	OT2	45	0	A	A	A	A	A
+Nguyễn Hoàng	Khang	A	44	44	45	45	33	OT1	45	0	A	A	A	A	A
+Đỗ Công	Khôi	A	45	44	45	45	33	OT2	45	0	A	A	A	A	A
+Đỗ Tuấn	Kiệt	B	22	26	19	32	32	OT3	25	0	D	C	D	C	A
+Nguyễn Bảo	Long	B	12	15	4	18	21	OT3	10	0	D	D	D	D	C
+Vũ Ngọc	Mai	B	43	43	33	35	31	OT5	33	0	A	A	C	B	A
+Hà Văn Gia	Minh	B	33	31	33	29	31	OT4	35	0	C	C	C	C	A
+Nguyễn Nhật	Minh	A	45	45	44	45	33	OT3	45	0	A	A	A	A	A
+Nguyễn Bảo	Nam	B	38	36	26	36	33	OT3	32	0	B	B	C	B	A
+Nguyễn Thị Ánh	Ngọc	A	44	44	42	45	31	OT5	33	0	A	A	A	A	A
+Quách Hồ Bảo	Ngọc	B	33	34	19	28	31	OT3	25	0	C	C	D	C	A
+Nguyễn Thị Yến	Nhi	B	26	35	30	34	33	OT1	32	0	C	B	C	C	A
+Phan Thị Kim	Oanh	B	20	27	17	37	31	OT3	23	0	D	C	D	B	A
+Vũ Minh	Phát	B	41	33	19	34	30	OT3	25	0	A	C	D	C	A
+Đặng Vũ Yến	Phi	B	28	25	24	18	27	OT4	24	0	C	C	C	D	B
+Nguyễn Ngọc Hữu	Phước	B	38	32	28	37	30	OT3	34	0	B	C	C	B	A
+Nguyễn Hữu	Thiên	B	28	30	22	30	25	OT3	28	0	C	C	D	C	B
+Trần Thị Anh	Thư	B	38	29	39	37	31	OT2	35	0	B	C	B	B	A
+Tôn Nữ Thúy Bảo	Trân	B	44	32	29	25	33	OT4	31	0	A	C	C	C	A
+Phạm Bá An	Tường	B	43	30	31	40	33	OT2	36	0	A	C	C	B	A
+Đặng Nguyễn Hà	Vy	B	44	40	37	42	31	OT5	33	0	A	B	B	A	A
+Nguyễn Kim	Oanh	B	22	25	26	41	28	OT1	28	0	D	C	C	A	B
+Nguyễn Minh	Trí	B	26	28	26	32	27	OT1	32	0	C	C	C	C	B
+Nguyễn Ngọc Thảo	Nhi	B	37	38	36	25	33	OT4	31	0	B	B	B	C	A
+Nguyễn Hà	An	B	34	22	20	18	25	OT4	24	0	C	D	D	D	B
+Lê Ngọc Kim	Huệ	B	37	30	26	36	32	OT3	32	0	B	C	C	B	A
+Phạm Bùi Gia	Huy	B	33	30	29	35	31	OT3	35	0	C	C	C	B	A
+Đỗ Ngọc	Trí	B	40	36	35	38	33	OT3	41	0	B	B	B	B	A
+Nguyễn Thành	Hưng	B	44	37	42	45	33	OT2	43	0	A	B	A	A	A
+Ngô Thọ	Hoàng	B	34	30	27	35	30	OT3	33	0	C	C	C	B	A
+Phạm Thành	An	B	21	23	9	25	24	OT3	15	0	D	C	D	C	C
+Trần Ngọc	Phát	B	28	33	27	32	29	OT3	33	0	C	C	C	C	B
+Phạm Chí	Nam	B	45	44	40	41	33	OT3	45	0	A	A	B	A	A
+Nguyễn Hữu 	Nam	A	44	41	41	45	33	OT2	45	0	A	A	A	A	A
+Trần Bình	Minh	B	30	18	11	19	16	OT3	17	0	C	D	D	D	D
+Nguyễn Trương Minh	Bảo	B	29	15	10	21	26	OT3	16	0	C	D	D	D	B
+Hà Xuân Hùng	Tráng	B	45	36	23	42	33	OT3	29	0	A	B	C	A	A
+Quản Lê Mạnh	Quân	B	21	18	19	26	21	OT2	24	0	D	D	D	C	C
+Lê Minh	Quân	B	19	9	10	14	11	OT2	15	0	D	D	D	D	D
+Trần Bùi Đặng	Phú	B	17	17	16	12	22	OT4	18	0	D	D	D	D	C

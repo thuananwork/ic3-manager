@@ -7,9 +7,17 @@ if ($pc_name !== "Unknown") {
     $mappingFile = "ip_mapping.txt";
     $lines = [];
 
-    // 1. Đọc dữ liệu cũ nếu file đã tồn tại
+    // AUTO-CLEAR: Nếu file cũ từ ngày hôm qua → xoá sạch để lấy IP mới
     if (file_exists($mappingFile)) {
-        $lines = file($mappingFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+        $fileDate = date('Y-m-d', filemtime($mappingFile));
+        $today = date('Y-m-d');
+        if ($fileDate < $today) {
+            // File từ ngày cũ → reset
+            file_put_contents($mappingFile, '');
+            $lines = [];
+        } else {
+            $lines = file($mappingFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+        }
     }
 
     $new_mapping = [];
